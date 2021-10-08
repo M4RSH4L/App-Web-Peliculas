@@ -1,24 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import Ticket from './ticket';
+import PageWraper from './PageWrapper';
+
 
 function App() {
+	
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+	<PageWraper>
+
+<Ticket 
+
+titulo="Pass Line" 
+calificacion="11.1"
+fecha="2021"
+director="Ronan Lavorato"
+actores="TOm makensin"
+Duracion=""
+ />
+<Ticket/>
+
+
+
+<Ticket/>
+
+
+	</PageWraper>
   );
 }
 
