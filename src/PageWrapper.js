@@ -11,7 +11,7 @@ export default function PageWraper (props) {
     </div>
     
     
-    <div className="login-wrapper" id="login-content">
+     <div className="login-wrapper" id="login-content">
         <div className="login-content">
             <a href="#" className="close">x</a>
             <h3>Login</h3>
