@@ -14,6 +14,7 @@ function App() {
       actores:"TOm makensin",
       Duracion:"18/20 hs",
       img: "images/uploads/mv1.jpg",
+      descripcion: "      Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity...", 
     } , 
      {
       titulo: "into the wild" ,
@@ -25,12 +26,12 @@ function App() {
       img: "images/uploads/mv1.jpg",
     } ,
     {
-      titulo: "" ,
-      calificacion: "",
-      fecha: " ",
-      director:"",
-      actores:"",
-      Duracion:"",
+      titulo: "blade runner" ,
+      calificacion: "11",
+      fecha: "1 May 2015",
+      director:"Peyton Reed",
+      actores:"Robert Downey Jr.,",
+      Duracion:"2h21’",
       img: "images/uploads/mv1.jpg",
     } ,
     {
@@ -47,19 +48,23 @@ function App() {
 
 	<PageWraper>
 
-   <Ticket 
 
-     titulo="Wilkenny" 
-     calificacion="6"
-     fecha=" (2021)"
-     director="Nico galvan"
-     actores="TOm makensin"
-     Duracion="18/20 hs"
-     img="images/uploads/mv1.jpg">
-     Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity...
+    {tickets.map(Ticket=>
+ <Ticket 
 
+     calificacion={tickets.calificacion} 
+     titulo={tickets.titulo} 
+     fecha={tickets.fecha} 
+     director={tickets.director} 
+     actores={tickets.actores} 
+     Duracion={tickets.Duracion} 
+     img={tickets.img}>
+          {tickets.descripcion}
   </Ticket>
 
+)
+    }
+  
   <Ticket 
 
      titulo="Pass up" 
@@ -78,8 +83,8 @@ function App() {
 
     <Ticket
    titulo="Pass Line" 
-   calificacion="10.1"
    fecha="2022"
+   calificacion="10.1" 
    director="Ronan Lavorato"
    actores="TOm makensin"
    Duracion=""
