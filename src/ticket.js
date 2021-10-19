@@ -12,11 +12,11 @@ export default function Ticket (props) {
         <p className="rate"><i className="ion-android-star"></i><span>{props.calificacion}</span> /10</p>
         <p className="describe">{props.children} </p>
        
-        <p>RR.PP: <a href="#">{props.director}</a></p>
+        <p>RR.PP: <a href="#">  {props.director}</a></p>
         <p>Stars: <a href="#">Robert Downey Jr.,</a> <a href="#">Chris Evans,</a> <a href="#">  Chris Hemsworth</a></p>
 
         <p className="run-time">{props.Duracion}    .     
-           <span>MMPA: PG-13 </span>    .     <span>(2012)</span></p>
+           <span>Direccion{props.location} </span>    .     <span>{props.release}</span></p>
     </div>
 </div>
     )
