@@ -2,6 +2,7 @@ import './App.css';
 import Ticket from './ticket';
 import PageWraper from './PageWrapper';
 import Ticketjson from './tickets.json';
+import Paginacion from './paginacion';
 
 function App() {
 
@@ -25,7 +26,19 @@ function App() {
      location={ticket.location}>
         {ticket.descripcion}
       </Ticket> 
+
       )  }
+
+
+   <Paginacion 
+    pagina={}
+    total={} 
+    onChange={() =>  {
+    alert (pagina)  } 
+     }/>
+   
+ 
+
 
 	</PageWraper> 
   );
