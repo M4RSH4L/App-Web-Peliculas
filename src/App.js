@@ -30,14 +30,15 @@ function App() {
       )  }
 
 
-   <Paginacion 
-    pagina={}
-    total={} 
-    onChange={() =>  {
+<Paginacion 
+    pagina={2}
+    total={4} 
+    onChange={(pagina) =>  {
     alert (pagina)  } 
-     }/>
+     } 
+     />
    
- 
+
 
 
 	</PageWraper> 
