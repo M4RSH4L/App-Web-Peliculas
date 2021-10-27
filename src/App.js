@@ -31,11 +31,11 @@ function App() {
 
 
 <Paginacion 
-    pagina={2}
-    total={4} 
-    onChange={(pagina) =>  {
-    alert (pagina)  } 
-     } 
+   pagina={2}
+   total={4} 
+   onChange={(pagina) =>  {
+   alert (pagina)  } 
+    } 
      />
    
 
