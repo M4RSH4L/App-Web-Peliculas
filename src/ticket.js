@@ -13,7 +13,7 @@ export default function Ticket (props) {
         <p className="describe">{props.children} </p>
        
         <p>RR.PP: <a href="#">Direccion:  {props.director}</a></p>
-        <p>Stars: <a href="#">Robert Downey Jr.,</a> <a href="#">Chris Evans,</a> <a href="#">  Chris Hemsworth</a></p>
+        <p>Evento: <a href="#">Robert Downey Jr.,</a> <a href="#">Chris Evans,</a> <a href="#">  Chris Hemsworth</a></p>
 
         <p className="run-time">{props.Duracion}    .     
            <span>Direccion{props.location} </span>    .     <span>{props.release}</span></p>

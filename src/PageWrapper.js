@@ -204,10 +204,10 @@ export default function PageWraper (props) {
             <div className="row">
                 <div className="col-md-12">
                     <div className="hero-ct">
-                        <h1> movie listing - list</h1>
+                        <h1> pass listing - list</h1>
                         <ul className="breadcumb">
                             <li className="active"><a href="#">Home</a></li>
-                            <li> <span className="ion-ios-arrow-right"></span> movie listing</li>
+                            <li> <span className="ion-ios-arrow-right"></span> Disco listing</li>
                         </ul>
                     </div>
                 </div>
@@ -219,7 +219,7 @@ export default function PageWraper (props) {
             <div className="row ipad-width2">
                 <div className="col-md-8 col-sm-12 col-xs-12">
                     <div className="topbar-filter">
-                        <p>Found <span>1,608 movies</span> in total</p>
+                        <p>Found <span>1,608 pass</span> in total</p>
                         <label>Sort by:</label>
                         <select>
                             <option value="popularity">Popularity Descending</option>
@@ -237,10 +237,10 @@ export default function PageWraper (props) {
     
                                                  
                     <div className="topbar-filter">
-                        <label>Movies per page:</label>
+                        <label>Pass per page:</label>
                         <select>
-                            <option value="range">5 Movies</option>
-                            <option value="saab">10 Movies</option>
+                            <option value="range">5 List</option>
+                            <option value="saab">10 List</option>
                         </select>
                         <div className="pagination2">
                             <span>Page 1 of 2:</span>

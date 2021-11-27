@@ -8,10 +8,11 @@
       "actores":"TOm makensin",
       "Duracion": "18/20 hs",
       "img": "images/Boliches/Wilkenny.jpg",
-      "descripcion": "      Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..." ,
+      "descripcion": " [Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ]   " ,
       "release": "Release: 1 May 2015" ,
       "location":"  MMPA: PG-13"
       } , 
+      
      {
       "titulo": "into the wild" ,
      " calificacion": "7.8",
@@ -20,7 +21,7 @@
       "actores":"Paul Rudd,  Michael Douglas",
       "Duracion":"Run Time: 2h21’",
       "img": "images/uploads/mv2.jpg" ,
-      "descripcion":"As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..." ,
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion" ,
       "release":"Release: 1 May 2015",
       "location":"  MMPA: PG-13"
     
@@ -33,7 +34,7 @@
       "actores":"Robert Downey Jr.,   Michael Douglas",
       "Duracion":"2h21’",
       "img": "images/uploads/mv3.jpg",
-      "descripcion":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..." ,
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion " ,
       "release":"Release: 1 May 2015",
       "location":"  MMPA: PG-13"
       } ,
@@ -45,7 +46,7 @@
       "actores":"Robert Downey Jr.,    Guy Pearce,    Don Cheadle",
       "Duracion":"Run Time: 2h21’    . ",
       "img": "images/uploads/mv4.jpg",
-      "descripcion":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
       "release":"Release: 1 May 2015",
       "location":"  MMPA: PG-13"
     } ,
@@ -57,7 +58,140 @@
       "actores":"Chris Hemsworth,   Natalie Portman,  Tom Hiddleston  ",
       "Duracion":" Run Time: 2h21’    . ",
       "img": "images/uploads/mv5.jpg",
-      "descripcion":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
+      "release":"Release: 1 May 2015",
+      "location":"   MMPA: PG-13"
+    } ,
+    {
+      "titulo": "blade runner" ,
+      "calificacion": "11",
+      "fecha": "(2015)",
+      "director":"Peyton Reed",
+      "actores":"Robert Downey Jr.,   Michael Douglas",
+      "Duracion":"2h21’",
+      "img": "images/uploads/mv3.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ..." ,
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+      } ,
+    {
+      "titulo": "Mulholland pride" ,
+      "calificacion": "7.2",
+      "fecha": "2013 ",
+      "director":"Shane Black",
+      "actores":"Robert Downey Jr.,    Guy Pearce,    Don Cheadle",
+      "Duracion":"Run Time: 2h21’    . ",
+      "img": "images/uploads/mv4.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+    } ,
+    {
+      "titulo": "skyfall: evil of boss" ,
+      "calificacion": "7.0",
+      "fecha": "(2013) ",
+      "director":"Alan Taylor",
+      "actores":"Chris Hemsworth,   Natalie Portman,  Tom Hiddleston  ",
+      "Duracion":" Run Time: 2h21’    . ",
+      "img": "images/uploads/mv5.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
+      "release":"Release: 1 May 2015",
+      "location":"   MMPA: PG-13"
+    } ,
+    {
+      "titulo": "Wilkenny" ,
+      "calificacion": "6",
+      "fecha": " (+22)",
+      "director":"Nico galvan",
+      "actores":"TOm makensin",
+      "Duracion": "18/20 hs",
+      "img": "images/Boliches/Wilkenny.jpg",
+      "descripcion": " [Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ]   " ,
+      "release": "Release: 1 May 2015" ,
+      "location":"  MMPA: PG-13"
+      } , 
+     {
+      "titulo": "into the wild" ,
+     " calificacion": "7.8",
+      "fecha": "(2015)",
+      "director":"Peyton Reed",
+      "actores":"Paul Rudd,  Michael Douglas",
+      "Duracion":"Run Time: 2h21’",
+      "img": "images/uploads/mv2.jpg" ,
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion" ,
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+    
+      } ,
+    {
+      "titulo": "blade runner" ,
+      "calificacion": "11",
+      "fecha": "(2015)",
+      "director":"Peyton Reed",
+      "actores":"Robert Downey Jr.,   Michael Douglas",
+      "Duracion":"2h21’",
+      "img": "images/uploads/mv3.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion " ,
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+      } ,
+    {
+      "titulo": "Mulholland pride" ,
+      "calificacion": "7.2",
+      "fecha": "2013 ",
+      "director":"Shane Black",
+      "actores":"Robert Downey Jr.,    Guy Pearce,    Don Cheadle",
+      "Duracion":"Run Time: 2h21’    . ",
+      "img": "images/uploads/mv4.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+    } ,
+    {
+      "titulo": "skyfall: evil of boss" ,
+      "calificacion": "7.0",
+      "fecha": "(2013) ",
+      "director":"Alan Taylor",
+      "actores":"Chris Hemsworth,   Natalie Portman,  Tom Hiddleston  ",
+      "Duracion":" Run Time: 2h21’    . ",
+      "img": "images/uploads/mv5.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
+      "release":"Release: 1 May 2015",
+      "location":"   MMPA: PG-13"
+    } ,
+    {
+      "titulo": "blade runner" ,
+      "calificacion": "11",
+      "fecha": "(2015)",
+      "director":"Peyton Reed",
+      "actores":"Robert Downey Jr.,   Michael Douglas",
+      "Duracion":"2h21’",
+      "img": "images/uploads/mv3.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ..." ,
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+      } ,
+    {
+      "titulo": "Mulholland pride" ,
+      "calificacion": "7.2",
+      "fecha": "2013 ",
+      "director":"Shane Black",
+      "actores":"Robert Downey Jr.,    Guy Pearce,    Don Cheadle",
+      "Duracion":"Run Time: 2h21’    . ",
+      "img": "images/uploads/mv4.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
+      "release":"Release: 1 May 2015",
+      "location":"  MMPA: PG-13"
+    } ,
+    {
+      "titulo": "skyfall: evil of boss" ,
+      "calificacion": "7.0",
+      "fecha": "(2013) ",
+      "director":"Alan Taylor",
+      "actores":"Chris Hemsworth,   Natalie Portman,  Tom Hiddleston  ",
+      "Duracion":" Run Time: 2h21’    . ",
+      "img": "images/uploads/mv5.jpg",
+      "descripcion":"Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion, Descripcion ",
       "release":"Release: 1 May 2015",
       "location":"   MMPA: PG-13"
     } 
