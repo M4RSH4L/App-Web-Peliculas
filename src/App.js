@@ -2,6 +2,7 @@ import './App.css';
 import ListadoTicket from './ListadoTicket';
 import Blog from './Blog'
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Organizadores from './Organizadores';
 
 
 function App() {
@@ -16,6 +17,11 @@ function App() {
       <Route path= "/">
           <ListadoTicket/>
       </Route>
+
+      <Route path= "/Organizadores">
+          <Organizadores/>
+      </Route>
+
     </Switch>
     </BrowserRouter>
   );

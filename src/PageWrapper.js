@@ -110,27 +110,22 @@ export default function PageWraper (props) {
                                 <a href="#page-top"></a>
                             </li>
                             <li className="dropdown first">
-                                <a className="btn btn-default dropdown-toggle lv1" href="/blog">
-                                Blog <i className="fa fa-angle-down" aria-hidden="true"></i>
+                                <a className="btn btn-default dropdown-toggle lv1" href="/">
+                                Home <i  aria-hidden="true"></i>
                                 </a>
                                 
                             </li>
                             <li className="dropdown first">
-                                <a className="btn btn-default  lv1" data-toggle="dropdown" data-hover="dropdown">
-                                movies<i className="fa fa-angle-down" aria-hidden="true"></i>
+                                <a className="btn btn-default  lv1" href="/blog">
+                                Blog<i  aria-hidden="true"></i>
                                 </a>
                               
                             </li>
                             <li className="dropdown first">
-                                <a className="btn btn-default dropdown-toggle lv1" data-toggle="dropdown" data-hover="dropdown">
-                                celebrities <i className="fa fa-angle-down" aria-hidden="true"></i>
+                                <a className="btn btn-default dropdown-toggle lv1" href="/organizadores">
+                                Organizadores <i aria-hidden="true"></i>
                                 </a>
-                                <ul className="dropdown-menu level1">
-                                    <li><a href="celebritygrid01.html">celebrity grid 01</a></li>
-                                    <li><a href="celebritygrid02.html">celebrity grid 02 </a></li>
-                                    <li><a href="celebritylist.html">celebrity list</a></li>
-                                    <li className="it-last"><a href="celebritysingle.html">celebrity single</a></li>
-                                </ul>
+                               
                             </li>
                             <li className="dropdown first">
                                 <a className="btn btn-default dropdown-toggle lv1" data-toggle="dropdown" data-hover="dropdown">

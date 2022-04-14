@@ -1,9 +1,6 @@
-import { useState } from 'react';
 import './App.css';
-import Ticket from './ticket';
 import PageWraper from './PageWrapper';
 
-import Paginacion from './paginacion';
 
 function ListadoTicket() {
 
